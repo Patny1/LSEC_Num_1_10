@@ -1,0 +1,16 @@
+path: dataset
+train: images/train
+val: images/val
+
+names:
+  0: clase0
+  1: clase1
+  2: clase2
+  3: clase3
+  4: clase4
+  5: clase5
+  6: clase6
+  7: clase7
+  8: clase8
+  9: clase9
+  10: clase10
