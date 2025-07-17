@@ -11,7 +11,16 @@ Entrenar un modelo que reconozca los números del 1 al 10 en LSEC.
 - `notebooks/`: Jupyter Notebooks utilizados en Google Colab.
 - `weights/`: Pesos base y finales de los modelos.
 
+## 🎥 Video de funcionamiento en TikTok
+
+🤖 Modelo YOLO entrenado para reconocer los números del 1 al 10 en lengua de señas ecuatoriana 🇪🇨. Mira el video 👉 TikTok: 🔗[[enlace]](https://vm.tiktok.com/ZMSt8BDck/)
+
+
 ## ⚙️ Requisitos
 
 ```bash
 pip install -r requirements.txt
+
+
+
+
