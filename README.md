@@ -13,7 +13,10 @@ Entrenar un modelo que reconozca los números del 1 al 10 en LSEC.
 
 ## 🎥 Video de funcionamiento en TikTok
 
-🤖 Modelo YOLO entrenado para reconocer los números del 1 al 10 en lengua de señas ecuatoriana 🇪🇨. Mira el video 👉 TikTok: 🔗[[enlace]](https://vm.tiktok.com/ZMSt8BDck/)
+🤖 Modelo YOLO entrenado para reconocer los números del 1 al 10 en lengua de señas ecuatoriana 🇪🇨. 
+
+Mira el video 👉 TikTok: 🔗 [https://vm.tiktok.com/ZMSt8BDck/](https://vm.tiktok.com/ZMSt8BDck/)
+
 
 
 ## ⚙️ Requisitos
